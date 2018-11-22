@@ -2,8 +2,7 @@ import React from 'react';
 import { Button } from 'react-native';
 
 const intro = () => {
-    return (
-        
+    return ( 
         <Button title='come in' onPress ={alert('hey buddy :)')}/>
     )
 }
